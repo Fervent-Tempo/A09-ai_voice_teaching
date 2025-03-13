@@ -14,7 +14,12 @@
         <junit.version>5.10.2</junit.version>
     </properties>
 
+
+
     <dependencies>
+
+
+
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
@@ -23,6 +28,11 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
+            <version>17.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-media</artifactId>
             <version>17.0.6</version>
         </dependency>
         <dependency>

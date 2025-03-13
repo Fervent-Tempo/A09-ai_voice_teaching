@@ -1,0 +1,14 @@
+.root{
+    -fx-background-color: null;
+}
+.content-pane{
+    -fx-background-color: #a3c6da;
+    -fx-background-image: url("../img/background.jpg");
+    -fx-background-size:cover;
+}
+/*通用svg图标样式*/
+.svg-icon{
+    -fx-max-height: 20px;
+    -fx-max-width: 20px;
+    -fx-background-color: whitesmoke;
+ }
